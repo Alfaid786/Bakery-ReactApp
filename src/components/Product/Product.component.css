@@ -1,0 +1,21 @@
+.backIMG {
+  width: 80;
+  height: 80;
+}
+.shop-collection {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 25px;
+}
+.menu-item {
+  display: flex;
+  height: 250px;
+  border: solid 1px black;
+  width: 400px;
+  margin: 10px;
+  flex: 1 1 auto;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
